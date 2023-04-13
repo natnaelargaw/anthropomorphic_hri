@@ -1,3 +1,0 @@
-[console_scripts]
-moving_object = mods.moving_object:main
-
