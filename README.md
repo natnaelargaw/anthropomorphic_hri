@@ -1,6 +1,7 @@
 # anthropomorphic_hri
 This repository corresponds to a research project entitled Anthropomorphic Human Robot Interaction Framework: Attention Based Approach
-<img src="[https://www.dropbox.com/s/xtbtgocnxjxuigp/gitcover.png?dl=0](https://www.dropbox.com/s/xtbtgocnxjxuigp/gitcover.png?dl=0)">
+<p align=""><img src="gitcover.png" width="700"\></p>
+
 ## How does it work
 This framework subscribes to any robot camera view topic, /CameraBottom/image_raw  in this case and undergo human attention prediction based on two models namely: saliency prediction and mobing object detection and segmentation. It calulates saliency map and directs the robot to interact with the best ROI according to results. 
 ## Implementation
